@@ -1,0 +1,40 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+out/
+build/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# BlueJ
+*.ctxt
+
+# J2ME
+.mtj.tmp/
+
+# Archives
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Java crash logs
+hs_err_pid*
+replay_pid*
+
+# Temporary editor files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+.LCK*
