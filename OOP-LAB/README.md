@@ -87,6 +87,7 @@ OOP-LAB/
 |---|---|
 | **Course** | Object-Oriented Programming Lab |
 | **Institution** | FAST – National University of Computer and Emerging Sciences (FAST-NUCES) |
+| **Semester** | Spring 2026 – 2nd Semester |
 | **Instructor** | Miss Kinza Mushtaq |
 
 ---
