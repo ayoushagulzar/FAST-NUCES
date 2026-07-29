@@ -1,5 +1,0 @@
-OOP
-MVC
-DLD
-CCE
-PST
