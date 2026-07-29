@@ -1,38 +1,42 @@
 # Lab 01 – Introduction to Java
 
-This folder contains the solutions to the exercises completed in **Lab 01** for the **Object-Oriented Programming (OOP)** course. The tasks focus on understanding Java syntax, user input, arithmetic operations, variables, data types, and basic mathematical calculations.
+This lab introduces the fundamentals of Java programming, including user input, variables, arithmetic operations, expressions, and basic output formatting.
 
-## Exercises
-
-1. **Student Percentage Calculator**
-   - Takes marks of five subjects as input.
-   - Calculates the total marks and percentage.
-
-2. **Product of Two Double Values**
-   - Accepts two `double` values.
-   - Computes and displays their product.
-
-3. **Simple Calculator**
-   - Performs addition, subtraction, multiplication, division, and remainder operations on two integers.
-
-4. **Expression Evaluation**
-   - Computes and displays the result of the given mathematical expression.
-
-5. **Circle Calculator**
-   - Takes the radius of a circle as input.
-   - Calculates and displays the diameter, circumference, and area.
-
-6. **Student Information**
-   - Accepts the user's name, student ID, and registered courses.
-   - Displays the entered information.
-
-## Concepts Covered
+## Topics Covered
 
 - Java Program Structure
 - Variables & Data Types
-- User Input (`Scanner`)
+- User Input
 - Arithmetic Operators
 - Mathematical Expressions
-- Output Formatting
+- Basic Output Formatting
 
----
+## Tasks
+
+### Task 01 – Student Percentage Calculator
+- Calculate the total percentage from marks entered by the user.
+
+### Task 02 – Product Calculator
+- Multiply two double values and display the result.
+
+### Task 03 – Simple Calculator
+- Perform addition, subtraction, multiplication, division, and remainder operations.
+
+### Task 04 – Expression Evaluation
+- Evaluate and display the result of a mathematical expression.
+
+### Task 05 – Circle Measurements
+- Calculate the diameter, circumference, and area of a circle.
+
+### Task 06 – Student Information
+- Accept and display student details.
+
+## Learning Outcomes
+
+- Understand the basic structure of a Java program
+- Work with variables and primitive data types
+- Accept user input using the Scanner class
+- Perform arithmetic calculations
+- Display formatted output
+
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.

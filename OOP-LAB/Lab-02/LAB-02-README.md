@@ -1,37 +1,39 @@
-# Lab 02 – Operators, Control Structures, Loops & Math Library Functions in Java
+# Lab 02 – Operators, Control Structures, Loops & Math Library Functions
 
-This folder contains the solutions to the exercises completed in **Lab 02** for the **Object-Oriented Programming (OOP)** course. The tasks focus on applying Java operators, decision-making statements, loops, and mathematical operations to solve real-world programming problems.
+This lab focuses on decision-making, iterative programming, mathematical operations, and solving real-world problems using Java control structures.
+
+## Topics Covered
+
+- Operators
+- Conditional Statements
+- Loops
+- Nested Control Structures
+- Math Library Functions
+- User Input
 
 ## Tasks
 
-1. **Invoice Application**
-   - Simulates a Point of Sale (POS) invoice system.
-   - Calculates subtotal, discount, sales tax, and the final invoice amount.
+### Task 01 – Invoice Management System
+- Generate a formatted invoice with discounts and sales tax calculations.
 
-2. **Even & Odd Sum**
-   - Reads integers from **1 to 100**.
-   - Computes and displays the sum of even and odd numbers separately.
+### Task 02 – Even & Odd Sum Calculator
+- Calculate the sum of even and odd numbers separately.
 
-3. **Multiplication Table**
-   - Takes an integer as input.
-   - Prints its multiplication table up to **10**.
+### Task 03 – Multiplication Table
+- Display the multiplication table of a given number.
 
-4. **Grade Processing System**
-   - Processes marks for multiple students.
-   - Calculates the average marks, number of passing students, and number of failing students.
+### Task 04 – Grade Processing System
+- Calculate class average and determine pass/fail statistics.
 
-5. **Bank Transaction System**
-   - Implements a simple menu-driven banking application.
-   - Supports user authentication, deposits, withdrawals, and account status display.
+### Task 05 – Banking Transaction System
+- Implement a menu-driven banking application supporting deposits, withdrawals, and account status.
 
-## Concepts Covered
+## Learning Outcomes
 
-- Arithmetic, Relational & Logical Operators
-- Conditional Statements (`if`, `switch`)
-- Loops (`for`, `while`, `do-while`)
-- User Input (`Scanner`)
-- Math Library Functions (`Math`)
-- Menu-Driven Programs
-- Basic Problem Solving
+- Apply conditional statements effectively
+- Use loops for repetitive tasks
+- Perform mathematical computations
+- Develop menu-driven applications
+- Solve practical programming problems
 
----
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.

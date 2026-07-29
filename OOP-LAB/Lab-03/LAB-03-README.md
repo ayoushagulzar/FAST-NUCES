@@ -1,43 +1,39 @@
-# Lab 03 – Classes & Objects in Java
+# Lab 03 – Classes & Objects
 
-This folder contains the solutions to the exercises completed in **Lab 03** for the **Object-Oriented Programming (OOP)** course. The tasks introduce the fundamentals of object-oriented programming by focusing on classes, objects, constructors, data members, and methods.
+This lab introduces the fundamentals of object-oriented programming by creating classes, objects, constructors, and methods to model real-world entities.
+
+## Topics Covered
+
+- Classes & Objects
+- Constructors
+- Instance Variables
+- Methods
+- Object Creation
+- Encapsulation Basics
 
 ## Tasks
 
-1. **Bank Account**
-   - Creates a `BankAccount` class.
-   - Uses constructors to initialize account details.
-   - Demonstrates both parameterized and default balance initialization.
+### Task 01 – Bank Account System
+- Create bank accounts using constructors and display account details.
 
-2. **Mobile Phone**
-   - Creates a `Mobile` class.
-   - Implements both a no-argument constructor and a parameterized constructor.
-   - Displays mobile phone information.
+### Task 02 – Mobile Information System
+- Implement default and parameterized constructors.
 
-3. **Course Management**
-   - Creates a `Course` class.
-   - Stores course code, course name, and credit hours.
-   - Displays course details using multiple objects.
+### Task 03 – Course Management
+- Store and display course information using objects.
 
-4. **Computer Lab Management**
-   - Creates a `Computer` class.
-   - Stores system ID, processor type, RAM size, and operating system.
-   - Displays information for different computer systems.
+### Task 04 – Computer Inventory
+- Manage computer details using classes and methods.
 
-5. **Programmer Information**
-   - Creates a `Programmer` class.
-   - Stores programmer details and solved problem count.
-   - Updates solved problems and displays programmer information.
+### Task 05 – Programmer Management
+- Update programmer information and display details.
 
-## Concepts Covered
+## Learning Outcomes
 
-- Classes & Objects
-- Data Members
-- Methods
-- Constructors
-  - Default Constructor
-  - Parameterized Constructor
-- Object Creation
-- Method Invocation
-- Encapsulation Basics
+- Design classes to represent real-world entities
+- Create and initialize objects
+- Use constructors effectively
+- Organize data using instance variables
+- Develop reusable methods
 
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.
