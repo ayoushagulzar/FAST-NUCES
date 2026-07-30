@@ -49,4 +49,4 @@ Search for an integer in an array and return its index.
 * Use functions with arrays.
 * Apply scansets for string processing.
 
-**Note:** The original lab questions are included as comments at the beginning of each source file for reference.
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.
