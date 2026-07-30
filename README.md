@@ -1,26 +1,20 @@
-# 🎓 FAST–NUCES Coursework Repository
+# 🎓 FAST-NUCES Coursework
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSSE-Coursework-0F172A?style=for-the-badge" alt="BSSE Coursework">
-  <img src="https://img.shields.io/badge/University-FAST--NUCES-1E3A8A?style=for-the-badge" alt="FAST-NUCES">
-  <img src="https://img.shields.io/badge/Purpose-Educational-334155?style=for-the-badge" alt="Educational">
+  <strong>Coursework Repository for my Bachelor of Science in Software Engineering (BSSE)</strong><br>
+  FAST – National University of Computer and Emerging Sciences (FAST-NUCES), Karachi
 </p>
 
 <p align="center">
-  <a href="#-courses">Courses</a> •
-  <a href="#-repository-structure">Repository Structure</a> •
-  <a href="#-technologies">Technologies</a> •
-  <a href="#-repository-guidelines">Guidelines</a> •
-  <a href="#-disclaimer">Disclaimer</a>
+  <img src="https://img.shields.io/badge/Program-BSSE-blue?style=for-the-badge" alt="BSSE">
+  <img src="https://img.shields.io/badge/University-FAST--NUCES-green?style=for-the-badge" alt="FAST-NUCES">
+  <img src="https://img.shields.io/badge/Purpose-Educational-orange?style=for-the-badge" alt="Educational">
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-black?style=for-the-badge" alt="Git">
 </p>
 
----
+This repository serves as a centralized archive of my academic coursework completed during my BS Software Engineering program at **FAST – National University of Computer and Emerging Sciences (FAST-NUCES)**.
 
-## 📖 Overview
-
-This repository contains coursework completed during my **Bachelor of Science in Software Engineering (BSSE)** at **FAST – National University of Computer and Emerging Sciences (FAST-NUCES), Karachi**.
-
-The repository is organized by course and includes laboratory exercises, theory assignments, programming tasks, and supporting documentation. Each course directory contains its own dedicated **README.md** describing the covered topics, objectives, and implementation details.
+It includes laboratory exercises, theory assignments, programming tasks, and supporting documentation organized by course. Each course directory contains its own dedicated **README.md** describing the covered topics and implementation details.
 
 ---
 
@@ -39,47 +33,50 @@ The repository is organized by course and includes laboratory exercises, theory 
 
 ```text
 FAST-NUCES/
-│
+├── README.md
 ├── Programming-Fundamentals/
 ├── Object-Oriented-Programming/
 ├── Data-Structures-and-Algorithms/
 ├── COAL/
-│
-└── README.md
+└── ...
 ```
 
 > Additional course directories will be added as I progress through my degree.
 
 ---
 
-## 🛠 Technologies
+## 🛠️ Technologies
 
-| Category                  | Technologies                      |
-| ------------------------- | --------------------------------- |
-| **Programming Languages** | C, C++, Java, Assembly            |
-| **Development Tools**     | Visual Studio Code, IntelliJ IDEA |
-| **Version Control**       | Git, GitHub                       |
+### Languages
+
+* C
+* C++
+* Java
+* Assembly *(Coming Soon)*
+
+### Tools
+
+* Visual Studio Code
+* IntelliJ IDEA
+* Git
+* GitHub
 
 ---
 
-## 📌 Repository Guidelines
+## 📝 Notes
 
-* Each course directory contains a dedicated **README.md**.
+* Every course contains its own dedicated **README.md**.
 * Original problem statements are included where permitted.
-* Generated files and IDE-specific configurations are excluded using **`.gitignore`**.
-* Additional coursework and documentation will be added as future semesters are completed.
+* Generated files, executables, and IDE-specific files are excluded using **.gitignore**.
+* This repository is maintained for **educational and archival purposes**.
 
 ---
 
-## ⚠️ Disclaimer
+## 🏫 Academic Information
 
-This repository is maintained solely for **educational and archival purposes**.
-
-All source code and documentation represent coursework completed as part of my **Bachelor of Science in Software Engineering** at **FAST – National University of Computer and Emerging Sciences (FAST-NUCES)**. The contents are shared to document my academic progress and should be used responsibly in accordance with academic integrity policies.
-
----
-
-<p align="center">
-  <strong>Thank you for visiting this repository.</strong><br>
-  If you find it helpful, consider leaving a ⭐.
-</p>
+| Field                  | Information                                                               |
+| ---------------------- | ------------------------------------------------------------------------- |
+| **University**         | FAST – National University of Computer and Emerging Sciences (FAST-NUCES) |
+| **Program**            | Bachelor of Science in Software Engineering (BSSE)                        |
+| **Campus**             | Karachi                                                                   |
+| **Repository Purpose** | Educational Coursework                                                    |
