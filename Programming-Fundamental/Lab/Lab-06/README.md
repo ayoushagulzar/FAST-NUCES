@@ -81,4 +81,4 @@ Swap two integers using the XOR operator.
 * Understand and use bitwise operators.
 * Develop efficient solutions for common programming problems.
 
-**Note:** The original lab questions are included as comments at the beginning of each source file for reference.
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.
