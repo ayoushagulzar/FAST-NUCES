@@ -4,6 +4,8 @@ This directory contains my Programming Fundamentals coursework completed during 
 
 It includes laboratory exercises and theory assignments that establish the foundation of programming using the **C programming language**. Each lab and assignment directory contains its own dedicated README describing the covered concepts, objectives, and implemented tasks.
 
+---
+
 ## 📚 Directory Overview
 
 ### 🧪 Lab
@@ -30,6 +32,8 @@ It includes laboratory exercises and theory assignments that establish the found
 | Assignment 02 | Arrays, Functions & Bitwise Operations |
 | Assignment 03 | Recursion, Structures, Pointers & File Handling |
 
+---
+
 ## 📂 Directory Structure
 
 ```text
@@ -49,12 +53,14 @@ Programming-Fundamental/
     └── Assignment-03/
 ```
 
+---
+
 ## ✨ Highlights
 
 - 💻 C Programming Fundamentals
 - 🧠 Problem Solving & Logical Thinking
 - 📊 Problem Analysis (PAC & IPO Charts)
-- 📝 Algorithms, Flowcharts & Pseudocode
+- 📝 Flowcharts & Pseudocode
 - 🔀 Decision Structures
 - 🔁 Iterative Structures (Loops)
 - 📦 Arrays & Multidimensional Arrays
@@ -66,19 +72,25 @@ Programming-Fundamental/
 - 📄 File Handling
 - ⚙️ Bitwise Operations
 
+---
+
 ## 📝 Notes
 
 - Every lab and assignment is organized in its own directory.
 - Each directory contains a dedicated **README.md** describing its contents.
 - Original questions are included as comments in the corresponding source files where applicable.
-- Documentation such as PAC/IPO charts, algorithms, flowcharts, and pseudocode is included in the relevant theory assignments.
+- Documentation such as PAC/IPO charts, algorithms, and pseudocode is included in the relevant theory assignments.
 - Executable (`.exe`) files and other generated artifacts are excluded using `.gitignore`.
+
+---
 
 ## 💻 Tech Stack
 
 **Language:** C  
 **IDE:** Visual Studio Code  
 **Version Control:** Git & GitHub
+
+---
 
 ## 📘 Course Information
 
@@ -90,4 +102,6 @@ Programming-Fundamental/
 | **Lab Instructor** | *Miss Ravia Ejaz* |
 | **Theory Instructor** | *Miss Fizza Mansoor* |
 
-This repository is maintained as part of my academic coursework and serves as a record of my progress in learning programming fundamentals and problem-solving using the C programming language.
+---
+
+>This repository is maintained as part of my academic coursework and serves as a record of my progress in learning programming fundamentals and problem-solving using the C programming language.
