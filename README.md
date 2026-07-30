@@ -5,11 +5,11 @@
   FAST – National University of Computer and Emerging Sciences (FAST-NUCES), Karachi
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PROGRAM-BSSE-5BC0EB?style=for-the-badge&labelColor=202938" alt="Program">
-  <img src="https://img.shields.io/badge/UNIVERSITY-FAST%20NUCES-6D4AFF?style=for-the-badge&labelColor=202938" alt="University">
-  <img src="https://img.shields.io/badge/PURPOSE-COURSEWORK-C2185B?style=for-the-badge&labelColor=202938" alt="Purpose">
-  <img src="https://img.shields.io/badge/TOOLS-GIT%20%26%20GITHUB-C77800?style=for-the-badge&labelColor=202938" alt="Tools">
+<<p align="center">
+  <img src="https://img.shields.io/badge/PROGRAM-BSSE-3BA9F5?style=for-the-badge&labelColor=2A3142">
+  <img src="https://img.shields.io/badge/UNIVERSITY-FAST--NUCES-7057E8?style=for-the-badge&labelColor=2A3142">
+  <img src="https://img.shields.io/badge/PURPOSE-COURSEWORK-D63384?style=for-the-badge&labelColor=2A3142">
+  <img src="https://img.shields.io/badge/TOOLS-GIT%20%26%20GITHUB-E67E22?style=for-the-badge&labelColor=2A3142">
 </p>
 
 ---
