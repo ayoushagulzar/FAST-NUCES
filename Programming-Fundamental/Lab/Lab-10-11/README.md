@@ -82,4 +82,4 @@ Merge the contents of two files into a third file.
 * Use constants and static variables effectively.
 * Perform file input and output operations in C.
 
-**Note:** The original lab questions are included as comments at the beginning of each source file for reference.
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.
