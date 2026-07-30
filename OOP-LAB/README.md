@@ -24,7 +24,7 @@ Each lab focuses on a specific Java concept through practical programming exerci
 
 ---
 
-## 📂 Repository Structure
+## 📂 Directory Structure
 
 ```text
 OOP-LAB/
