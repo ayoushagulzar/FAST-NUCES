@@ -37,4 +37,4 @@ Manage and extend sales data dynamically while calculating total sales.
 * Resize allocated memory using `realloc()`.
 * Manage dynamic arrays, matrices, and strings efficiently.
 
-**Note:** The original lab questions are included as comments at the beginning of each source file for reference.
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.
