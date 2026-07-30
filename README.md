@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROGRAM-BSSE-2563EB?style=for-the-badge&labelColor=1E293B" alt="Program">
-  <img src="https://img.shields.io/badge/UNIVERSITY-FAST--NUCES-5B4BDB?style=for-the-badge&labelColor=1E293B" alt="University">
-  <img src="https://img.shields.io/badge/PURPOSE-COURSEWORK-14B8A6?style=for-the-badge&labelColor=1E293B" alt="Purpose">
-  <img src="https://img.shields.io/badge/TOOLS-GIT%20%26%20GITHUB-D9480F?style=for-the-badge&labelColor=1E293B" alt="Tools">
+  <img src="https://img.shields.io/badge/PROGRAM-BSSE-38BDF8?style=for-the-badge&labelColor=1E293B" alt="Program">
+  <img src="https://img.shields.io/badge/UNIVERSITY-FAST--NUCES-6D28D9?style=for-the-badge&labelColor=1E293B" alt="University">
+  <img src="https://img.shields.io/badge/PURPOSE-COURSEWORK-DB2777?style=for-the-badge&labelColor=1E293B" alt="Purpose">
+  <img src="https://img.shields.io/badge/TOOLS-GIT%20%26%20GITHUB-10B981?style=for-the-badge&labelColor=1E293B" alt="Tools">
 </p>
 
 ---
