@@ -50,4 +50,4 @@ Calculate total and average runs, and identify the highest scorer.
 * Apply pointer arithmetic for array processing.
 * Implement generic functions using `void *`.
 
-**Note:** The original lab questions are included as comments at the beginning of each source file for reference.
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.

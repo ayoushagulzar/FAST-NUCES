@@ -37,4 +37,4 @@ Display an appropriate greeting according to the entered time.
 * Solve real-world problems using conditional logic.
 * Develop logical thinking through branching structures.
 
-**Note:** The original lab questions are included as comments at the beginning of each source file for reference.
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.

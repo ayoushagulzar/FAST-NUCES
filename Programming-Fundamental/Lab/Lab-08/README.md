@@ -49,4 +49,4 @@ Generate prime numbers within a given range using nested loops.
 * Solve numerical and pattern-based problems.
 * Apply nested loops to multidimensional data.
 
-**Note:** The original lab questions are included as comments at the beginning of each source file for reference.
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.

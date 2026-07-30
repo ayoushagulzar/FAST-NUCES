@@ -49,4 +49,4 @@ Display a floating-point number with 2 and 6 decimal places using `printf` preci
 * Use escape sequences for formatted output.
 * Format floating-point values using precision specifiers.
 
-**Note:** The original lab questions are included as comments at the beginning of each source file for reference.
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.

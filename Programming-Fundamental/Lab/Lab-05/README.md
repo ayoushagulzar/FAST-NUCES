@@ -48,4 +48,4 @@ Display feedback based on the user's rating for a movie.
 * Implement conditional expressions using the ternary operator.
 * Solve real-world problems using decision structures.
 
-**Note:** The original lab questions are included as comments at the beginning of each source file for reference.
+> **Note:** The original lab questions are included as comments at the beginning of each source file for reference.erence.
