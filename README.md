@@ -5,7 +5,7 @@
   FAST – National University of Computer and Emerging Sciences (FAST-NUCES), Karachi
 </p>
 
-<<p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/PROGRAM-BSSE-3BA9F5?style=for-the-badge&labelColor=2A3142">
   <img src="https://img.shields.io/badge/UNIVERSITY-FAST--NUCES-7057E8?style=for-the-badge&labelColor=2A3142">
   <img src="https://img.shields.io/badge/PURPOSE-COURSEWORK-D63384?style=for-the-badge&labelColor=2A3142">
